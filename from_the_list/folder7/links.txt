@@ -1,0 +1,6 @@
+http://www.php.su/scandir()
+http://www.php.su/file_exists()
+http://www.lostfilm.tv/
+http://php.net/manual/ru/function.basename.php
+https://vk.com/
+https://habrahabr.ru/post/260201/

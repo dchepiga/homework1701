@@ -1,0 +1,3 @@
+https://habrahabr.ru/company/wargaming/blog/251441/
+http://www.php.su/scandir()
+http://www.php.su/file_exists()
